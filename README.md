@@ -14,8 +14,10 @@
     - Thống kê doanh thu theo tháng, năm, món ăn được bán nhiều nhất,....
  # Demo
  * Trang chủ
- ![image](https://github.com/NgocKhanh107/DuAn1_Restaurant_Management/assets/109933771/b1101992-4b64-4a3d-86de-b58662291bbe)
+ ![Picture1](https://github.com/NgocKhanh107/DuAn1_Restaurant_Management/assets/109933771/c04cc1c1-8f8f-4c7a-9a98-0fd47ecbd279)
+
  
  * Nhân viên
- ![image](https://github.com/NgocKhanh107/DuAn1_Restaurant_Management/assets/109933771/37713eee-c8d5-4bb2-96bc-cd0e49a97c8d)
+ ![Picture2](https://github.com/NgocKhanh107/DuAn1_Restaurant_Management/assets/109933771/662e5872-1806-461f-b5ff-ce6c6bdfacf4)
+
 
